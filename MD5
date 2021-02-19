@@ -1,0 +1,9 @@
+ac99a56153df84d65af7ef3f34994c7b *DESCRIPTION
+71147240147e07322ecb4d8a9568e61c *LICENSE
+cd43b6ff86da0a26168a4afaa9db072c *NAMESPACE
+fdb5d57987806fa7095125b7c133abdd *R/convert.R
+b8c6125680c224f8e481ff7297c63564 *R/ukus_crosswalk.R
+a6d0bfccbb2d63fd61c4da3164d8a2d5 *data/ukus_crosswalk.rda
+70e6aabde6e04d7a0d5a31b9efca1306 *man/convert_uk2us.Rd
+7b469fe61ff8159139ae668f21807456 *man/convert_us2uk.Rd
+fb7a6d176f3833a3a0e99709e631a5ff *man/ukus_crosswalk.Rd
